@@ -35,3 +35,11 @@
   padding: 5px;
   border: 1px solid black;
 }
+
+.add-product {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 50%;
+}
